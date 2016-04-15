@@ -1,4 +1,5 @@
 ## Customize
+Paste blog of text and have it extract out indicators. Copy and Paste the table to your Crits Bulk Object
 
 ### Sources
 - Line 12
