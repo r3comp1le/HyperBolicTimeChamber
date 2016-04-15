@@ -1,7 +1,7 @@
 ## HyperBolicTimeChamber
 
 ### Tasks
-  - Crits Indicator Extraction and Formatting
+  - [Crits Indicator Extraction and Formatting](https://github.com/r3comp1le/HyperBolicTimeChamber/tree/master/Crits)
   - ?
   - ?
   - ?
