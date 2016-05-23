@@ -7,7 +7,7 @@ include('template.php');
 <div class="jumbotron">
     <h3>List of Tools</h3>
     <ul>
-      <li>Crits Indicator Extraction and Formatting</li>
+      <li><a href="Crits/index.php">Crits Indicator Extraction and Formatting</a></li>
     </ul>
 </div>
 </div>
